@@ -8,4 +8,4 @@ tags:
 ---
 This is some test content
 
-![myVolcano](/assets/images/image1.jpg "myVolcano cross-platform app")
+![Docker](/BritishGeologicalSurvey.github.io/assets/images/whale-2015080554-2400px-1038x576.png "Docker")
